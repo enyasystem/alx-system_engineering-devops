@@ -1,3 +1,3 @@
 -C -m School
-file --mine-type -m school.mgc
+file --mine-type -m school.mgc *
 file -m school.mgc *
